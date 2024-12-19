@@ -42,10 +42,10 @@ Speech Emotion Recognition (SER) is a machine learning-based project designed to
    python data_preprocessing.pynb
 2. **Train the model:** Train the emotion classification model using the train_model.py script.
    ```bash
-   python train_model.py
+   python train_model.pynb
 3. **Predict emotions in new audio files:** Use the predict.py script to classify emotions in new audio files.
    ```bash
-   python predict.py --file sample_audio.wav
+   python predict.pynb --file sample_audio.wav
 
 
 ## Project Structure
