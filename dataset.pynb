@@ -1,0 +1,4 @@
+!kaggle datasets download ejlok1/toronto-emotional-speech-set-tess
+!kaggle datasets download ejlok1/surrey-audiovisual-expressed-emotion-savee
+!kaggle datasets download uwrfkaggler/ravdess-emotional-speech-audio
+!kaggle datasets download ejlok1/cremad
