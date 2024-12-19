@@ -51,14 +51,14 @@ Speech Emotion Recognition (SER) is a machine learning-based project designed to
 ## Project Structure
 
     ```bash
-   .
+    .
    ├── data/                   # Dataset directory
    ├── models/                 # Trained models
    ├── notebooks/              # Jupyter notebooks for exploration
    ├── scripts/                # Python scripts for preprocessing, training, and prediction
    ├── requirements.txt        # Dependency file
    └── README.md               # Project description
-
+   
 
 ## Applications
 - Enhancing user experience in virtual assistants (e.g., Siri, Alexa).
