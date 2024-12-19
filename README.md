@@ -31,4 +31,51 @@ Speech Emotion Recognition (SER) is a machine learning-based project designed to
    ```bash
    cd speech-emotion-recognition
 3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+
+
+
+
+## Usage
+
+
+1. **Preprocess the audio dataset:** Use the data_preprocessing.py script to extract features from the audio dataset.
+   ```bash
+   python data_preprocessing.py
+2. **Train the model:** Train the emotion classification model using the train_model.py script.
+   ```bash
+   python train_model.py
+3. **Predict emotions in new audio files:** Use the predict.py script to classify emotions in new audio files.
+   ```bash
+   python predict.py --file sample_audio.wav
+
+
+## Project Structure
+
+ ```bash
+ .
+├── data/                   # Dataset directory
+├── models/                 # Trained models
+├── notebooks/              # Jupyter notebooks for exploration
+├── scripts/                # Python scripts for preprocessing, training, and prediction
+├── requirements.txt        # Dependency file
+└── README.md               # Project description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
