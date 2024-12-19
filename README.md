@@ -30,8 +30,5 @@ Speech Emotion Recognition (SER) is a machine learning-based project designed to
 2. Navigate to the project directory:
    ```bash
    cd speech-emotion-recognition
-3.Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
+3. Install the required dependencies:
 
-## Usage
